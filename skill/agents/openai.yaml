@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Onboarding Map"
+  short_description: "Build a compact onboarding map from an authorized repository inventory, highlighting entry poin"
+  default_prompt: "Use @codebase-onboarding-map on my authorized input and return a validated result."

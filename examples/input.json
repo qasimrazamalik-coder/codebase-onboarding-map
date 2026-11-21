@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "id": "a",
+      "source": "module-a",
+      "target": "module-b",
+      "kind": "depends-on"
+    }
+  ]
+}
